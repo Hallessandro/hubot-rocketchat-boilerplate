@@ -8,7 +8,7 @@
 //   None
 //
 // Commands:
-//   bot rc version - < Tells you the Hubot, Driver and Rocket.Chat versions >
+//   hubot rc version - < Tells you the Hubot, Driver and Rocket.Chat versions >
 //
 // Notes:
 //   Version 1.0
